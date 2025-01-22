@@ -1,10 +1,9 @@
 ### Hi there! I'm Danielle 👋
 
-- :tomato: Former Dietitian
-- :star: Aspiring Data Analyst
+- :tomato: star: Transitioned from Dietitics into Data Analytics and Visualization
 - :mortar_board: Completed a Data Analytics + Python bootcamp through Savvy Coders
-- :computer: Part-time TA for Savvy Coders
-- :mag_right: I enjoy data cleaning, data visualization and excel at attention-to-detail
+- :computer: Part-time Teaching Assistant for Savvy Coders
+- :mag_right: Self-starter that transitioned from Dietetics into Data Analytics and Visualizations. Dietetics focused heavily on research, collecting and analyzing patient data, and effective collaboration. I would love the opportunity to use those skills, as well as my strengths in attention to detail, problem solving, and creativity within analytics and visualizations.  
 
 
 
